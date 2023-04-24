@@ -11,6 +11,10 @@ conda env create -f software_dev_v2.yml
 
 **software_dev_v1 environment was not created
 
+software_dev_v2 environment
+<img width="462" alt="image" src="https://user-images.githubusercontent.com/72496335/234009021-9196bbf7-7ee8-43a6-b5fb-3c91a1329b77.png">
+
+
 # Step 3:Modify one of the environments
 Since software_dev_v2 was the only one created, I modified it as follows: 
 Listed all packages in the environment: conda list -n software_dev_v2
