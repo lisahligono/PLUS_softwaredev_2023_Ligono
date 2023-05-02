@@ -1,4 +1,3 @@
-# Ligono A2 Conda assignment
 # Step 1: Cloning the GitHub repository to my local repository
 Created a folder 'geo-software-dev' in my OS
 git clone https://github.com/augustinh22/geo-software-dev.git
