@@ -15,10 +15,9 @@ My group’s final semester project will involve routing by emergency responders
 Additionally, I will explore network analysis using the osmnx package which is essential for routing applications and further visualize these datasets with the help of folium.
 
 <h2>Installation</h2> 
-To replicate this example, the package can be installed through source using the conda environment with the library itself and all the dependencies installed using the provided a3geopyenv.yml file: 
+To replicate this example, the package can be installed through source using the conda environment with the library itself and all the dependencies installed using the provided a3geopyenv.yml file
 
-
-git clone https://...
+git clone https://github.com/lisahligono/PLUS_softwaredev_2023_Ligono.git
 
 cd A3
 
