@@ -1,0 +1,10 @@
+name: a3geopyenv
+channels:
+  - defaults
+dependencies:
+  - geopy
+  - matplotlib
+  - ipykernel
+  - folium
+  - osmnx
+prefix: /Users/lisahligono/opt/anaconda3/envs/a3geopyenv
