@@ -34,7 +34,7 @@ Contributions of any kind are welcome
 This example is developed as part of the Practice: Software development in python course
 
 <h2>Documentation</h2> 
-More documentation can 
+More documentation can be found in the links below: 
 
 Geopy: https://geopy.readthedocs.io/en/latest/ 
 
