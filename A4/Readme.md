@@ -1,7 +1,9 @@
 <h1>Bintang Bolong, The Gambia: Mangrove Vegetation Index (MVI)</h1>
 
-<h2>Bintang Bolong Classification Map</h2>
-![class1](https://github.com/lisahligono/PLUS_softwaredev_2023_Ligono/assets/72496335/4fad22e2-225c-4ee5-a3f4-260774b8aa7b)
+<b>Bintang Bolong Location</b>
+
+<img width="286" alt="image" src="https://github.com/lisahligono/PLUS_softwaredev_2023_Ligono/assets/72496335/3971518e-fe03-4c81-ae02-7aade7afcc43">
+
 
 <h2>Introduction</h2>
 
